@@ -1,0 +1,7 @@
+.titulo{
+    border-bottom: black double;
+}
+.caixa{
+    border: black solid 2px;
+    margin: 10px;
+}
