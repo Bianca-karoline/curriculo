@@ -1,7 +1,13 @@
+.pagina{
+    margin: 2%;
+}
 .titulo{
     border-bottom: black double;
+    font-family: Arial, Helvetica, sans-serif, monospace;
 }
 .caixa{
     border: black solid 2px;
     margin: 10px;
+    border: 2%;
+    text-align: center;
 }
